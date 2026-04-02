@@ -183,3 +183,8 @@ Your contributions are always welcome!
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/socialsoftware/humanaethica/blob/master/LICENSE) file for details.
+
+### Final Grade
+- First Part: 16.8 out of 20.00
+- Second Part:
+- Final Grade:
