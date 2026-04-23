@@ -186,5 +186,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ### Final Grade
 - First Part: 16.8 out of 20.00
-- Second Part: 17.74 out of 20.00
-- Final Grade: 17.27 out of 20.00
+- Second Part: 17.80 out of 20.00
+- Final Grade: 17.30 out of 20.00
